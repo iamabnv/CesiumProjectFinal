@@ -15,9 +15,18 @@ public:
 	// Sets default values for this actor's properties
 	AATreeSpawner();
 
+	UPROPERTY(EditAnywhere)
+	int TreeCount;
+
+	UPROPERTY(VisibleAnywhere)
+	UHierarchicalInstancedStaticMeshComponent* Trees;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	void SpawnTrees();
+	
 
 public:	
 	// Called every frame
