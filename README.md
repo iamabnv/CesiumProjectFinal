@@ -25,6 +25,8 @@ An Instanced Static Mesh Component basically allows us to spawn a large number o
 
 After tweaking some properties like start and end cull distance on our mesh component, and setting up LODs on the Mesh itself, we can very easily spawn >100,000 Meshes with minimal to no performance drop.
 
+Working example video with 100,000 tree spawns: https://1drv.ms/u/s!AqRfKitqJ1UhiagAw_4yMKHxEJ_s_w?e=yNap8c
+
 HOW TO USE PROJECT:
 
 Clone repository and compile the source code for project.
