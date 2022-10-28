@@ -2,23 +2,14 @@
 
 #include <random>
 #include <vector>
-#include "FTree.generated.h"
 
-USTRUCT(BlueprintType)
 struct FTree {
-
-	GENERATED_BODY()
 	
 	// Values are in standard Unreal Engine coordinates (centimeters)
-	UPROPERTY(EditAnywhere)
 	float positionX;
-	UPROPERTY(EditAnywhere)
 	float positionY;
-	UPROPERTY(EditAnywhere)
 	float positionZ;
-	UPROPERTY(EditAnywhere)
 	float height;
-	UPROPERTY(EditAnywhere)
 	float canopyRadius;
 };
 
