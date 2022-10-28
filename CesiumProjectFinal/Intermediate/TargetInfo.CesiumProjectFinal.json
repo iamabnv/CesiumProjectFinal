@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CesiumProjectFinal",
+			"Path": "C:\\Users\\abhin\\Documents\\GitHub\\CesiumProjectFinal\\CesiumProjectFinal\\Source\\CesiumProjectFinal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CesiumProjectFinalEditor",
+			"Path": "C:\\Users\\abhin\\Documents\\GitHub\\CesiumProjectFinal\\CesiumProjectFinal\\Source\\CesiumProjectFinalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

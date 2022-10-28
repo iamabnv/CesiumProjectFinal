@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CesiumProjectFinal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\abhin\Documents\GitHub\CesiumProjectFinal\CesiumProjectFinal\Intermediate\Build\Win64\CesiumProjectFinalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\abhin\Documents\GitHub\CesiumProjectFinal\CesiumProjectFinal\Intermediate\Build\Win64\UnrealEditor\Development\CesiumProjectFinal\CesiumProjectFinal.cpp.obj"
+"C:\Users\abhin\Documents\GitHub\CesiumProjectFinal\CesiumProjectFinal\Intermediate\Build\Win64\UnrealEditor\Development\CesiumProjectFinal\CesiumProjectFinalGameModeBase.cpp.obj"
+"C:\Users\abhin\Documents\GitHub\CesiumProjectFinal\CesiumProjectFinal\Intermediate\Build\Win64\UnrealEditor\Development\CesiumProjectFinal\CesiumProjectFinal.init.gen.cpp.obj"
+"C:\Users\abhin\Documents\GitHub\CesiumProjectFinal\CesiumProjectFinal\Intermediate\Build\Win64\UnrealEditor\Development\CesiumProjectFinal\CesiumProjectFinalGameModeBase.gen.cpp.obj"
+"C:\Users\abhin\Documents\GitHub\CesiumProjectFinal\CesiumProjectFinal\Intermediate\Build\Win64\UnrealEditor\Development\CesiumProjectFinal\Default.rc2.res"
+/OUT:"C:\Users\abhin\Documents\GitHub\CesiumProjectFinal\CesiumProjectFinal\Intermediate\Build\Win64\UnrealEditor\Development\CesiumProjectFinal\UnrealEditor-CesiumProjectFinal.lib"
